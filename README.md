@@ -6,7 +6,7 @@ Crack chatGPT answers with ease*
 [https://api.openai.com/v1/engines](https://api.openai.com/v1/engines) https://api.openai.com/v1/engines/ {engine id}
 ## - Models
 Models are currently overall better  and still supported
-[https://api.openai.com/v1/models](https://api.openai.com/v1/models)
+https://api.openai.com/v1/models
 https://api.openai.com/v1/models/ {model id}
 # Variables/Completion creation
 - model
