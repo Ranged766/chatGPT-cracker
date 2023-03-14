@@ -17,6 +17,7 @@ import os.path
 def main():
     openai.api_key = API_KEY
     model_engine = "text-davinci-003"
+    #model_engine = "curie-similarity"
     #model_engine="curie"
     max_tokens = 1024
     while True:
@@ -27,9 +28,9 @@ def main():
         prompt=prompt,
         max_tokens=max_tokens,
         temperature=0.2,
-        #top_p=0.5,
-        #frequency_penalty=0,
-        #presence_penalty=0
+        top_p=0.5,
+        frequency_penalty=0.2,
+        presence_penalty=0.2
         )
         answer=completion.choices[0].text
         printtofile(answer)

@@ -1,10 +1,7 @@
+#63/1-03
 import openai
 from key import *
 #import moonlander from moonhole
-
-#Flagged account ? api_key ?
-#Flagged HWID ?
-#Flagged ip ?
 
 openai.api_key = API_KEY
 model_engine = "text-davinci-003"
