@@ -5,6 +5,10 @@ Crack chatGPT answers with ease*
 Simply clone the code and run it, use pip to install the required library
 ## NOTICE
 don't try to install or download moonlander or moonhole, they will either not work or not download at ll
+# Use
+py funnygpt.py or curie.py
+after that you will be able to ask questions to chatGPT 
+You might not always be able to get a propper response due to the nature of the projects most values are set to provide unfiltered ansers and NOT answers that makes sense
 # Deprecation
 ## - Engines
 [https://api.openai.com/v1/engines](https://api.openai.com/v1/engines) https://api.openai.com/v1/engines/ {engine id}
