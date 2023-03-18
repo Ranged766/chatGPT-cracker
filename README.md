@@ -1,6 +1,10 @@
 # chatGPT-cracker
 Crack chatGPT answers with ease*
 *ease is relative to your will to try different values and outcomes, the best outcomes are already in the code
+# Install
+Simply clone the code and run it, use pip to install the required library
+## NOTICE
+don't try to install or download moonlander or moonhole, they will either not work or not download at ll
 # Deprecation
 ## - Engines
 [https://api.openai.com/v1/engines](https://api.openai.com/v1/engines) https://api.openai.com/v1/engines/ {engine id}
