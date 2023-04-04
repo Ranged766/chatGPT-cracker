@@ -1,4 +1,5 @@
 <h1>THIS CODE WILL NO LOGNER BE SUPPORTED SINCE ITALY HAS NOTHING BETTER TO DO AND IT BANNED IT</h1>
+
 # chatGPT-cracker
 Crack chatGPT answers with ease*
 *ease is relative to your will to try different values and outcomes, the best outcomes are already in the code
