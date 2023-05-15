@@ -1,4 +1,4 @@
-<h1>THIS CODE WILL NO LOGNER BE SUPPORTED SINCE ITALY HAS NOTHING BETTER TO DO AND IT BANNED IT</h1>
+<h1>This code is severely outdated</h1>
 
 # chatGPT-cracker
 Crack chatGPT answers with ease*
